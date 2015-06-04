@@ -1,0 +1,17 @@
+{
+  "name": "opk-sht1x-cli",
+  "version": "0.0.1",
+  "description": "An Open Pipe Kit command line driver for SHT1x humidity/temperature sensors for Raspberry Pi, based on pi-sht1x node library",
+  "main": "pull",
+  "dependencies": {
+    "pi-sht1x": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "pull"
+  },
+  "author": {
+    "name": "Jeffrey Warren"
+  },
+  "license": "MIT"
+}
